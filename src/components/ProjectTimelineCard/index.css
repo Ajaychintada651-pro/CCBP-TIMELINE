@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.project-image {
+  height: 150px;
+  width: 200px;
+}
+
+/* .project-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+} */
+
+.project-card-top-portion {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
